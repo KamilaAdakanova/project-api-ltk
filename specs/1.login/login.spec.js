@@ -8,7 +8,7 @@ const loginHelper = new LoginHelper();
 describe("login", () => {
 
     before(async () => {
-    await loginHelper.login("kadakanova@gmail.com", "KamiLove2021")
+    await loginHelper.login("*********@gmail.com", "*******")
     console.log(loginHelper.response.body)
   });
 it("status code", () => {
