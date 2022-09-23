@@ -1,0 +1,32 @@
+{
+  "client": {
+    "firstName": "Anna",
+    "lastName": "Karenina",
+    "lastNameRussian": "Обломовa",
+    "phoneNumber": "2345678910",
+    "phoneNumberExt": "123",
+    "doubleFirstName": "Anna-Junior",
+    "doubleFirstNameSpace": "Anna Junior",
+    "doubleLastName": "Anna-Gor",
+    "doubleLastNameSpace": "Karenina West",
+    "symbols": "^%$#!@!)(*&",
+    "numbers": "1234567890",
+    "max21": "NameNameNameNameNameN",
+    "name20": "NameNameNameNameName",
+    "company": "Plumber",
+    "companyDoubleName": "Armani Exchange",
+    "companySymbols": "!@#$%^&*()_+}{\":?><",
+    "companyNumbers": "1234567890",
+    "email": "plumber145@yahoo.com",
+    "emailNumbers": "123456789@yahoo.com",
+    "phoneLetters": "qwerty",
+    "phoneExt": "123",
+    "address": "500 Colonial Dr.",
+    "unit": "20A",
+    "city": "Washington",
+    "zip": "94123",
+    "state": "California",
+    "countryName": "United States",
+    "password": "qwe123000!"
+  }
+}
